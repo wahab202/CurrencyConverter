@@ -5,4 +5,4 @@ Uses SQLite to save the currencies for upto 30 mins.
 
 ## Screenshots
 ![Converter](Screenshots/1.png)
-![Currency Selector](Screenshots/1.png)
+![Currency Selector](Screenshots/2.png)
